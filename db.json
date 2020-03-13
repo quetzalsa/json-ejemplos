@@ -1,5 +1,6 @@
 {
-  "formPrincipal": [
+  "formPrincipal": "hola", 
+  "resultado": [
     {
       "type": "Dropdown",
       "title": "Tipo de incidente",
@@ -113,7 +114,7 @@
         }       
       ]
     },       
-    {"type": "TextArea", "placeholder": "Descripción"}                            
+    {"type": "TextArea", "placeholder": "Descripción"}
   ],
   "formComunicar": {
     "type": "DropdownComunicar",
