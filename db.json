@@ -115,7 +115,7 @@
     },       
     {"type": "TextArea", "placeholder": "Descripción"}
   ],
-  "formComunicar": {
+  "formComunicar": [{
     "type": "DropdownComunicar",
     "title": "Comunicar a",
     "value": "",
@@ -133,26 +133,28 @@
         "value": 3
       }      
     ]
-  },
-  "formEstadoSolucion": {
-    "type": "Dropdown",
-    "title": "Reportar estado de solucion",
-    "value": "",
-    "list": [
-      {
-        "title": "Pendiente",
-        "value": 1
-      },
-      {
-        "title": "En proceso",
-        "value": 2
-      },
-      {
-        "title": "Resuelto",
-        "value": 3
-      }      
-    ]
-  },
+  }],
+  "formEstadoSolucion": [
+    {
+      "type": "Dropdown",
+      "title": "Reportar estado de solucion",
+      "value": "",
+      "list": [
+        {
+          "title": "Pendiente",
+          "value": 1
+        },
+        {
+          "title": "En proceso",
+          "value": 2
+        },
+        {
+          "title": "Resuelto",
+          "value": 3
+        }      
+      ]
+    }
+  ],
   "formAgregarInfo": [                                   
     {"type": "Input", "title": "Trabajadores Involucrados", "alturalinea": 3, "placeholder": ""},
     {"type": "Input", "title": "¿Por qué ocurrió?", "alturalinea": 3, "placeholder": ""},
