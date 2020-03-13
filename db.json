@@ -1,6 +1,5 @@
 {
-  "formPrincipal": "hola", 
-  "resultado": [
+  "formPrincipal": [
     {
       "type": "Dropdown",
       "title": "Tipo de incidente",
