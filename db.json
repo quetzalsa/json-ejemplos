@@ -155,15 +155,15 @@
       ]
     }
   ],
-  "datosUsuario": [{
-    "userName": "Pablo Escobar",
-    "userId": "6348",
-    "pass": "ebco123"
-  }],
   "formAgregarInfo": [                                   
     {"type": "Input", "title": "Trabajadores Involucrados", "alturalinea": 3, "placeholder": ""},
     {"type": "Input", "title": "¿Por qué ocurrió?", "alturalinea": 3, "placeholder": ""},
     {"type": "Input", "title": "Acción Inmediata", "alturalinea": 3, "placeholder": ""},
     {"type": "Input", "title": "Acción Correctiva", "alturalinea": 3, "placeholder": ""}                 
-  ]  
+  ],  
+  "datosUsuario": [{
+    "userName": "Pablo Escobar",
+    "userId": "6348",
+    "pass": "ebco123"
+  }]
 }
