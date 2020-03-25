@@ -156,10 +156,10 @@
     }
   ],
   "formAgregarInfo": [                                   
-    {"type": "Input", "title": "Trabajadores Involucrados", "alturalinea": 3, "placeholder": ""},
-    {"type": "Input", "title": "¿Por qué ocurrió?", "alturalinea": 3, "placeholder": ""},
-    {"type": "Input", "title": "Acción Inmediata", "alturalinea": 3, "placeholder": ""},
-    {"type": "Input", "title": "Acción Correctiva", "alturalinea": 3, "placeholder": ""}                 
+    {"type": "TextArea", "title": "Trabajadores Involucrados", "alturalinea": 3, "placeholder": ""},
+    {"type": "TextArea", "title": "¿Por qué ocurrió?", "alturalinea": 3, "placeholder": ""},
+    {"type": "TextArea", "title": "Acción Inmediata", "alturalinea": 3, "placeholder": ""},
+    {"type": "TextArea", "title": "Acción Correctiva", "alturalinea": 3, "placeholder": ""}                 
   ],  
   "datosUsuario": [{
     "userName": "Pablo Escobar",
